@@ -1,0 +1,5 @@
+warehouse_id,warehouse_name,warehouse_type,warehouse_address,workplace_id
+1,Warehouse 1,Mega Hub,XYZ st.,1
+2,Warehouse 2,Transit,ABC st.,2
+3,Warehouse 3,Transit,DEF st.,3
+4,Warehouse 4,Mega Hub,GHI bvd.,4
